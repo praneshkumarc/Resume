@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Github, Linkedin, Mail, Phone, ExternalLink, Award, Code, GraduationCap, ChevronsDown, Sparkles, BrainCircuit, X } from 'lucide-react';
 
 // --- Mock Data ---
